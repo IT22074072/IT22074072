@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinithi Sanjana 
-- 🌱 I'm currently studying as a Y3S1 SE Student at SLIIT
+- 🌱 I'm currently studying as a Y3S2 SE Student at SLIIT
 - 👀 I love coding and continuous learning</h1>
 <h3 align="center">A passionate SE Undergrad from Sri Lanka</h3>
 
@@ -12,7 +12,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **React Native, Java, MERN Stack, Python**
+- 🌱 I’m currently learning **Java, MERN Stack, React Native, Python**
 
 - 📫 How to reach me **dinithisanjana563@gmail.com**
 
