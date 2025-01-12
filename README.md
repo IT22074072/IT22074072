@@ -12,7 +12,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Java, MERN Stack, React Native, Python**
+- 🌱 I’m currently learning **Java, MERN Stack, Spring Boot, React**
 
 - 📫 How to reach me **dinithisanjana563@gmail.com**
 
