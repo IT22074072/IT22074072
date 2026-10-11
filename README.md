@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinithi Sanjana 
-- 🌱 I'm currently studying as a Final Year SE Student at SLIIT
-- 👀 I love coding and continuous learning</h1>
-<h3 align="center">A passionate SE Undergrad from Sri Lanka</h3>
+- 🌱 I'm a Software Engineering Gradauate
+- 👀 AI/ML & AWS Enthusiast </h1>
+<h3 align="center">A passionate SE Grad from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it22074072&label=Profile%20views&color=0e75b6&style=flat" alt="it22074072" /> </p>
 
